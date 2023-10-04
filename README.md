@@ -1,0 +1,3 @@
+# codewars-exercises
+
+- Personal solving
